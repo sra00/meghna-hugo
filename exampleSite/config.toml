@@ -1,4 +1,4 @@
-baseURL = "https://sra001-a1.netlify.com"
+baseURL = "https://sra001.netlify.com"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
