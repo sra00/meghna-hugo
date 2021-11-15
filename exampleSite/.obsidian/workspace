@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "1ce5c33c947c46a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f125bd218c5e4af",
+        "type": "leaf",
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "static/images/logo.png"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eb9afa5200872d01",
+    "type": "split",
+    "children": [
+      {
+        "id": "c765700d3ad028f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8fe5a6ba836b8cb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1419e1f89870b80a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8cef6e9bfc720b12",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9444d29a9c15277",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1718e48632b04ca6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "static/images/logo.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5f125bd218c5e4af",
+  "lastOpenFiles": [
+    "static/images/logo.png",
+    "static/images/logo2.png"
+  ]
+}
