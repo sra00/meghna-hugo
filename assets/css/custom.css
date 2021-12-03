@@ -1,0 +1,14 @@
+/* two custom options for the text color:
+D4D8DD and DFE2E6 */
+
+html {
+ 
+  color: #737f8a;
+}
+
+body {
+  background-color: #353b43;
+  font-family: "Anaheim", sans-serif;
+  color: #737f8a;
+  -webkit-font-smoothing: antialiased;
+}
