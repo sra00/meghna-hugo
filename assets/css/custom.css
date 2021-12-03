@@ -1,5 +1,7 @@
 /* two custom options for the text color:
-D4D8DD and DFE2E6 */
+D4D8DD and DFE2E6
+
+afbac4 converted to A4BAC4 99BCCC*/
 
 html {
  
@@ -21,5 +23,5 @@ h5,
 h6 {
   font-weight: 400;
   font-family: "Quattrocento Sans", sans-serif;
-  color: #afbac4;
+  color: #99BCCC;
 }
