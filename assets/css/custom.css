@@ -25,3 +25,20 @@ h6 {
   font-family: "Quattrocento Sans", sans-serif;
   color: #99BCCC;
 }
+
+.about .block .icon-box h3 {
+  color: #afbac4;
+}
+
+
+.portfolio-filter .btn {
+  outline: 0;
+  border: 1px solid rgba(236, 239, 241, 0.07);
+  background: transparent;
+  display: inline-block;
+  font-size: 16px;
+  padding: 6px 20px;
+  font-weight: 700;
+  color: #9da5ad;
+  transition: .3s all;
+}
